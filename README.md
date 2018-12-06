@@ -4,3 +4,4 @@ demo de git qui se passe bien
 
 petite modif directement en ligne
 puis depuis ma machine locale
+et c'est cool
